@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Afternoon Adventure",
+      "datetime": "2024-10-11T15:30:00",
+      "body": "Exploring new trails and enjoying the beauty of the great outdoors."
+    },
+    {
+      "id": "3",
+      "title": "Culinary Creations",
+      "datetime": "2024-10-12T17:00:00",
+      "body": "Experimenting with new recipes and discovering flavors in the kitchen."
+    },
+    {
+      "id": "4",
+      "title": "Evening Reflections good",
+      "datetime": "October 13, 2024 10:54:45 PM",
+      "body": "Taking a moment to reflect on the day's experiences and lessons learned."
+    },
+    {
+      "id": "41",
+      "title": "Custom hooks1",
+      "datetime": "October 17, 2024 1:31:44 AM",
+      "body": "hooks lesson"
+    },
+    {
+      "id": "411",
+      "title": "hoi",
+      "datetime": "October 17, 2024 1:31:29 AM",
+      "body": "congrats"
+    }
+  ]
+}
